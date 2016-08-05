@@ -3,6 +3,6 @@
   "name" : "Git Music repo",
   "version" : "0.1",
   "friendlyName" : "starbound-abc",
-  "link" : "steam://url/www.github.com/lg188/starbound-abc",
+  "link" : "http://www.github.com/lg188/starbound-abc",
   "description" : "An ever evolving music pack"
 }
